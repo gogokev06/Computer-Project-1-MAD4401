@@ -1,5 +1,6 @@
 # Computer-Project-1-MAD4401
 From Canvas:
+
 You will be assigned to a random group of classmates by Canvas for this computer project. You can find your group by going to Canvas → People → CP01 Group.
 
 Each group member is expected to attempt the problems and participate in group discussions.
